@@ -1,0 +1,15 @@
+.operation-buttons,.reset-buttons {
+    display: flex;
+    gap: 7px;
+    justify-content: center;
+    margin: 7px;
+}
+
+button {
+    background-color: rgb(46, 138, 243);
+    color: white;
+    border-style: none;
+    padding: 5px;
+    border-radius: 5px;;
+    font-size: 15px;
+}
