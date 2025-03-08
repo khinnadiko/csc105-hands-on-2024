@@ -1,0 +1,21 @@
+.item-btn {
+    background-color: rgb(24, 199, 24);
+    color: #FFFFFF;
+    padding: 10px 20px;
+}
+
+.AddItem {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    padding-bottom: 13px;
+} 
+
+.AddItem input {
+    background-color: black;
+    color: #FFFFFF;
+    padding: 10px;
+    flex: 2;
+    border-radius: 10px;
+    border: double 3px grey;
+}
